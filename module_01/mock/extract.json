@@ -1,0 +1,1056 @@
+{
+  "data": {
+    "phase": {
+      "cards": {
+        "edges": [
+          {
+            "node": {
+              "id": "398573393",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420125026"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "408072839",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "411883068",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420123867"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "416506176",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420119897"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "416866794",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420123006"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "417321527",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420390014"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "417747881",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420121982"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "418709046",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420130230"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419068686",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420138313"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419183010",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420109452"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419233351",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420110909"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419234573",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420100554"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419295085",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420133168"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419325343",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420112742"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419444488",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420131534"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419576927",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420128351"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419629594",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420126203"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419632933",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420104696"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419667601",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420116736"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419689005",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420134919"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419717991",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420115165"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419773169",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420094927"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419792317",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420097380"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419802315",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420105883"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419850375",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420106589"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419888758",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420126800"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419907111",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420113807"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419929187",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420096894"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419938636",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420097018"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "id": "419985833",
+              "child_relations": [
+                {
+                  "id": "300234186",
+                  "name": "Troca de Vagas <> Pipe",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300234703",
+                  "name": "Cora <> SuperTalents",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300241494",
+                  "name": "DiCpario <> Cora",
+                  "cards": [],
+                  "repo": {}
+                },
+                {
+                  "id": "300267486",
+                  "name": "Cora <> Grifinória",
+                  "cards": [
+                    {
+                      "id": "420107256"
+                    }
+                  ],
+                  "repo": {}
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
