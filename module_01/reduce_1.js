@@ -6,5 +6,3 @@ const totalValue = (acc, item) => {
 };
 
 console.log(carrinho.reduce(totalValue, 0));
-
-//
